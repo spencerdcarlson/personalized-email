@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231230_1" label="01-spring-intro-1" name="01-spring-intro-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-intro-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-intro-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231243_2" label="02-container-1" name="02-container-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231570_3" label="03-container-2" name="03-container-2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-2-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-2-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231593_4" label="04-container-4" name="04-container-4">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-4-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-4-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231611_5" label="05-aop-1" name="05-aop-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aop-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aop-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231615_6" label="06-jdbc-1" name="06-jdbc-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jdbc-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231619_7" label="07-tx-1" name="07-tx-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tx-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tx-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231627_8" label="08-hibernate-1" name="08-hibernate-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hibernate-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hibernate-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231632_9" label="09-mvc-1" name="09-mvc-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mvc-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mvc-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231638_10" label="10-security-1" name="10-security-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/security-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/security-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231644_11" label="11-remoting-1" name="11-remoting-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/remoting-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/remoting-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231652_12" label="12-jms-1" name="12-jms-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jms-1-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jms-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jms-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231690_13" label="13-container-3" name="13-container-3">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-3-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/container-3-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231697_14" label="14-test-1" name="14-test-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/test-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/test-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231705_15" label="15-jpa-1" name="15-jpa-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jpa-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jpa-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231716_16" label="16-ws-1" name="16-ws-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ws-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ws-1-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231747_17" label="17-rest-ws" name="17-rest-ws">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest-ws-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest-ws-start" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873231755_18" label="18-jmx-1" name="18-jmx-1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jmx-1-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jmx-1-solution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jmx-1-start" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1339873204178_0" label="Window Working Set" name="Aggregate for window 1339873204155"/>
+</workingSetManager>

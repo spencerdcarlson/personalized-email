@@ -1,0 +1,4 @@
+#Sat Jun 16 09:04:59 HST 2012
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat (Runtime) v6.0" id-set\="true" location\="/Applications/SpringSource Tutorial/apache-tomcat-6.0.32" name\="Apache Tomcat (Runtime) v6.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="0"/>\n</runtimes>\n
+eclipse.preferences.version=1

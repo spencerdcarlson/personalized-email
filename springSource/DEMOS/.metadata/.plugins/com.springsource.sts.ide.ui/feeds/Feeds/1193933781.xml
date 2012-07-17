@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>SpringSource Team Blog</title>
+	
+	<link>http://blog.springsource.org</link>
+	<description>The voice of SpringSource</description>
+	<lastBuildDate>Thu, 14 Jun 2012 05:53:20 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/SpringSourceTeamBlog" /><feedburner:info uri="springsourceteamblog" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Highlights of Spring for Apache Hadoop 1.0.0 M2</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/RuFZ7x9taAY/</link>
+		<comments>http://blog.springsource.org/2012/06/13/spring-for-hadoop-1-0-m2/#comments</comments>
+		<pubDate>Wed, 13 Jun 2012 12:02:53 +0000</pubDate>
+		<dc:creator>Costin Leau</dc:creator>
+				<category><![CDATA[Data Access]]></category>
+		<category><![CDATA[Enterprise Integration]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Spring Data]]></category>
+		<category><![CDATA[Spring Integration]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11190</guid>
+		<description>I am happy to announce that the second milestone (1.0.0.M2) of Spring for Apache Hadoop project is available. In this blog post, I would like to quickly highlight the major new features in M2. HBase DAO support One of the most versatile and powerful feature in Spring Framework is the Data Access Object (or DAO)  &lt;a href="http://blog.springsource.org/2012/06/13/spring-for-hadoop-1-0-m2/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/RuFZ7x9taAY" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/06/13/spring-for-hadoop-1-0-m2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/06/13/spring-for-hadoop-1-0-m2/</feedburner:origLink></item>
+		<item>
+		<title>Spring Roo 1.2.2.RELEASE available</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/DrtyFUlBk1A/</link>
+		<comments>http://blog.springsource.org/2012/05/28/spring-roo-1-2-2-release-available/#comments</comments>
+		<pubDate>Mon, 28 May 2012 06:41:55 +0000</pubDate>
+		<dc:creator>Alan Stewart</dc:creator>
+				<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11157</guid>
+		<description>The Spring Roo team is pleased to announce the availability 1.2.2.RELEASE.Ê This is the second maintenance release for 1.2 and includes fixes for a number of issues and includes support for Spring Framework 3.1.1 and JDK 7.Ê Roo 1.2.2 also includes the excellent new &amp;#034;tailor&amp;#034; feature provided by our new partner, Accenture. I hope you  &lt;a href="http://blog.springsource.org/2012/05/28/spring-roo-1-2-2-release-available/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/DrtyFUlBk1A" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/28/spring-roo-1-2-2-release-available/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/28/spring-roo-1-2-2-release-available/</feedburner:origLink></item>
+		<item>
+		<title>Understanding proxy usage in Spring</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/yhAzB0wD0d8/</link>
+		<comments>http://blog.springsource.org/2012/05/23/understanding-proxy-usage-in-spring/#comments</comments>
+		<pubDate>Wed, 23 May 2012 09:05:21 +0000</pubDate>
+		<dc:creator>Michael Isvy</dc:creator>
+				<category><![CDATA[3.1]]></category>
+		<category><![CDATA[AOP]]></category>
+		<category><![CDATA[Containers]]></category>
+		<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11113</guid>
+		<description>In the Spring framework, many technical features rely on proxy usage. We are going to go in depth on this topic using three examples: Transactions, Caching and Java Configuration. All the code samples shown in this blog entry are available on my github account. Transactions First step: no transaction The Service class below is not  &lt;a href="http://blog.springsource.org/2012/05/23/understanding-proxy-usage-in-spring/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/yhAzB0wD0d8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/23/understanding-proxy-usage-in-spring/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/23/understanding-proxy-usage-in-spring/</feedburner:origLink></item>
+		<item>
+		<title>Spring MVC 3.2 Preview: Chat Sample</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/oUbw2lkNPRg/</link>
+		<comments>http://blog.springsource.org/2012/05/16/spring-mvc-3-2-preview-chat-sample/#comments</comments>
+		<pubDate>Wed, 16 May 2012 23:22:55 +0000</pubDate>
+		<dc:creator>Rossen Stoyanchev</dc:creator>
+				<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11043</guid>
+		<description>My last blog post was based on a Spring AMQP stocks sample that involved reacting to external events. This blog post continues that theme with a chat sample where the external events are not AMQP messages but rather HTTP POST requests. Later on I&amp;#039;ll switch to a distributed chat where the events will be Redis  &lt;a href="http://blog.springsource.org/2012/05/16/spring-mvc-3-2-preview-chat-sample/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/oUbw2lkNPRg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/16/spring-mvc-3-2-preview-chat-sample/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/16/spring-mvc-3-2-preview-chat-sample/</feedburner:origLink></item>
+		<item>
+		<title>Spring MVC 3.2 Preview: Adding Long Polling to an Existing Web Application</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/IPfo9uFNZNM/</link>
+		<comments>http://blog.springsource.org/2012/05/13/spring-mvc-3-2-preview-adding-long-polling-to-an-existing-web-application/#comments</comments>
+		<pubDate>Mon, 14 May 2012 02:24:20 +0000</pubDate>
+		<dc:creator>Rossen Stoyanchev</dc:creator>
+				<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11038</guid>
+		<description>In my last post I discussed how to make a Spring MVC controller method asynchronous by returning a Callable which is then invoked in a separate thread by Spring MVC. But what if async processing depended on receiving an external event that will take place in a thread outside the control of the current request  &lt;a href="http://blog.springsource.org/2012/05/13/spring-mvc-3-2-preview-adding-long-polling-to-an-existing-web-application/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/IPfo9uFNZNM" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/13/spring-mvc-3-2-preview-adding-long-polling-to-an-existing-web-application/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/13/spring-mvc-3-2-preview-adding-long-polling-to-an-existing-web-application/</feedburner:origLink></item>
+		<item>
+		<title>Spring MVC 3.2 Preview: Making a Controller Method Asynchronous</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/byf7YG9xtx0/</link>
+		<comments>http://blog.springsource.org/2012/05/10/spring-mvc-3-2-preview-making-a-controller-method-asynchronous/#comments</comments>
+		<pubDate>Thu, 10 May 2012 18:16:06 +0000</pubDate>
+		<dc:creator>Rossen Stoyanchev</dc:creator>
+				<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11032</guid>
+		<description>In previous posts I introduced the Servlet 3, async support feature in Spring MVC 3.2 M1 and provided background on techniques for real-time updates. In today&amp;#039;s post I&amp;#039;ll turn to the technical details of the new Spring MVC feature and its impact on various aspects of the Spring MVC request lifecycle. To make any existing  &lt;a href="http://blog.springsource.org/2012/05/10/spring-mvc-3-2-preview-making-a-controller-method-asynchronous/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/byf7YG9xtx0" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/10/spring-mvc-3-2-preview-making-a-controller-method-asynchronous/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/10/spring-mvc-3-2-preview-making-a-controller-method-asynchronous/</feedburner:origLink></item>
+		<item>
+		<title>Using Cloud Foundry Workers with Spring</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/IujAOH-IJ4M/</link>
+		<comments>http://blog.springsource.org/2012/05/09/using-cloud-foundry-workers-with-spring/#comments</comments>
+		<pubDate>Wed, 09 May 2012 16:33:09 +0000</pubDate>
+		<dc:creator>Josh Long</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Enterprise Integration]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Spring Integration]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11074</guid>
+		<description>You&amp;#039;ve no doubt read Jennifer Hickey&amp;#039;s amazing blog posts introducing Cloud Foundry workers, their application in setting up Ruby Resque background jobs, and today&amp;#039;s post introducing the Spring support. Key Takeaways for Spring Developers You need to update your version of vmc with gem update vmc. Cloud Foundry workers let you run public static void  &lt;a href="http://blog.springsource.org/2012/05/09/using-cloud-foundry-workers-with-spring/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/IujAOH-IJ4M" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/09/using-cloud-foundry-workers-with-spring/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/09/using-cloud-foundry-workers-with-spring/</feedburner:origLink></item>
+		<item>
+		<title>Spring MVC 3.2 Preview: Techniques for Real-time Updates</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/phluBNkTYeE/</link>
+		<comments>http://blog.springsource.org/2012/05/08/spring-mvc-3-2-preview-techniques-for-real-time-updates/#comments</comments>
+		<pubDate>Tue, 08 May 2012 16:36:04 +0000</pubDate>
+		<dc:creator>Rossen Stoyanchev</dc:creator>
+				<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11022</guid>
+		<description>In my last post I introduced the new Servlet 3, async support feature in Spring MVC 3.2 M1 in the context of long-running requests. A second very important motivation for async processing is the need for browsers to receive real-time updates. Examples include chatting in a browser, stock quotes, status updates, live sports results, and  &lt;a href="http://blog.springsource.org/2012/05/08/spring-mvc-3-2-preview-techniques-for-real-time-updates/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/phluBNkTYeE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/08/spring-mvc-3-2-preview-techniques-for-real-time-updates/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/08/spring-mvc-3-2-preview-techniques-for-real-time-updates/</feedburner:origLink></item>
+		<item>
+		<title>Spring MVC 3.2 Preview: Introducing Servlet 3, Async Support</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/699xI0Epv_Q/</link>
+		<comments>http://blog.springsource.org/2012/05/06/spring-mvc-3-2-preview-introducing-servlet-3-async-support/#comments</comments>
+		<pubDate>Mon, 07 May 2012 02:36:35 +0000</pubDate>
+		<dc:creator>Rossen Stoyanchev</dc:creator>
+				<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=11016</guid>
+		<description>Overview Spring MVC 3.2 M1 will introduce asynchronous request processing support based on Servlet 3.0. This is the first of several blog posts covering the new feature, providing along the way sufficient background and context to understand how and why you might want to take advantage of it. A major goal of any milestone release  &lt;a href="http://blog.springsource.org/2012/05/06/spring-mvc-3-2-preview-introducing-servlet-3-async-support/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/699xI0Epv_Q" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/05/06/spring-mvc-3-2-preview-introducing-servlet-3-async-support/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/05/06/spring-mvc-3-2-preview-introducing-servlet-3-async-support/</feedburner:origLink></item>
+		<item>
+		<title>Create Spring Integration Projects using STS</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/RbecbN8LB6Q/</link>
+		<comments>http://blog.springsource.org/2012/04/09/create-spring-integration-projects-using-sts/#comments</comments>
+		<pubDate>Mon, 09 Apr 2012 16:46:24 +0000</pubDate>
+		<dc:creator>Gunnar Hillert</dc:creator>
+				<category><![CDATA[Enterprise Integration]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Spring Integration]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[SpringSource Tool Suite]]></category>
+		<category><![CDATA[STS]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=10672</guid>
+		<description>Just days ago, SpringSource Tool Suiteª (STS) 2.9.1 was released. Besides many new features, it provides several features that are especially exciting for Spring Integration users. First of all, the latest STS release adds support for Spring Integration 2.1 and improves the visualization capabilities for Spring Integration flows. STS supports now all recently added Spring  &lt;a href="http://blog.springsource.org/2012/04/09/create-spring-integration-projects-using-sts/"&gt;&lt;em&gt;Read more...&lt;/em&gt;&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/RbecbN8LB6Q" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.org/2012/04/09/create-spring-integration-projects-using-sts/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<feedburner:origLink>http://blog.springsource.org/2012/04/09/create-spring-integration-projects-using-sts/</feedburner:origLink></item>
+	</channel>
+</rss>

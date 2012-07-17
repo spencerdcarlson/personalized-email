@@ -1,0 +1,15 @@
+INDEX VERSION 1.122+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1317033982.index
+760661527.index
+2105237228.index
+921871527.index
+1927240978.index
+564407735.index
+3034250262.index
+2531766867.index
+1114099532.index
+4126117673.index
+1387459999.index
+1877133850.index
+2592570492.index
+2643338401.index

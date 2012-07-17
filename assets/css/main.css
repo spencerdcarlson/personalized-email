@@ -1,0 +1,21 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.hero-unit {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.modal.fade.in {
+  top: 15%;
+}
+
+#messageText {
+  margin-right: 100px;
+  width: 450px;
+  height: 200px;
+}
+#to {
+  width: 450px;
+  border-bottom: dashed gray 1px;
+}

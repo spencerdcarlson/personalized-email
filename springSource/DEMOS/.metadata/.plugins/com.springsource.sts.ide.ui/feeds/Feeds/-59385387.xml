@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.springsource.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>SpringSource.org</title>
+ <link>http://www.springsource.org</link>
+ <description>Welcome to the home of Spring, the leading platform to build and run enterprise Java applications. Led and sustained by SpringSource, Spring delivers significant benefits for many projects, increasing development productivity and runtime performance while improving test coverage and application quality.</description>
+ <language>en</language>
+<item>
+ <title>Spring for Apache Hadoop 1.0.0 M2 Released</title>
+ <link>http://www.springsource.org/node/3573</link>
+ <description>&lt;p&gt;Dear Spring Community,&lt;br /&gt;
+I am pleased to announce the release of Spring for Apache Hadoop 1.0 M2:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.springsource.com/download/community?project=Spring%20Data%20Hadoop&amp;amp;version=1.0.0.M2&quot;&gt;Downloads&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-data/hadoop/docs/1.0.0.M2/api/&quot;&gt;JavaDocs&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-data/hadoop/docs/1.0.0.M2/reference/html/&quot;&gt;Reference Documentation&lt;/a&gt; | &lt;a href=&quot;http://static.springframework.org/spring-data/hadoop/docs/1.0.0.M2/changelog.txt&quot;&gt;Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Spring for Apache Hadoop features include support for:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.springsource.org/node/3573&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/node/3573#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 13 Jun 2012 12:23:23 +0000</pubDate>
+ <dc:creator>Costin Leau</dc:creator>
+ <guid isPermaLink="false">3573 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring - June 12th, 2012</title>
+ <link>http://www.springsource.org/node/3572</link>
+ <description> 
+&lt;P&gt; 
+ Welcome back to another installment of &lt;EM&gt;This Week in Spring&lt;/EM&gt;. We&#039;ve got a lot to cover this week, so let&#039;s get to it! 
+&lt;/P&gt;
+&lt;OL&gt;
+	 
+ &lt;LI&gt; Gordon Dickens is at it again, this time with a great look &lt;a href= &quot;http://gordondickens.com/wordpress/2012/06/12/spring-3-1-constructor-namespace/&quot;&gt;at Spring 3.1&#039;s constructor namespace&lt;/A&gt;, which provides the  logical counterpart to the &lt;CODE&gt;p:&lt;/CODE&gt; namespace element.   &lt;/LI&gt;
+	
+
+
+ &lt;LI&gt; Matt Vickery&#039;s at it again! He&#039;s got an interesting post on how to use the &lt;a href=&quot;http://java.dzone.com/articles/spring-and-c24-io-accelerating&quot;&gt;C24 iO product with Spring&lt;/A&gt;.    &lt;/LI&gt;
+ &lt;LI&gt; The Vaadin blog has an interesting post on serialization with &lt;a href = &quot;https://vaadin.com/web/petter/home/-/blogs/experimenting-with-vaadin-spring-and-serialization&quot;&gt;the Vaadin web framework and Spring&lt;/A&gt;.  &lt;/LI&gt; &lt;LI&gt; The Java Code Geeks has a blog post on using the &lt;a href=&quot;http://www.javacodegeeks.com/2012/06/resteasy-tutorial-part-2-spring.html&quot;&gt;RESTEasy REST framework with Spring-based services&lt;/A&gt;. While I would recommend the Spring REST support in Spring MVC over this approach, it&#039;s at least interesting to have the recipe if you ever need to use it.  &lt;/LI&gt;
+ &lt;LI&gt;  The Java Code Geeks blog has another post on building  &lt;a href =&quot;http://www.javacodegeeks.com/2012/05/rest-cxf-for-spring-jpa2-backend.html&quot;&gt;Spring-based JPA services that sit behind a RESTful CXF backend&lt;/A&gt;.  This is another one of those situations where, while it&#039;s useful to know how to do in case you need to, you&#039;re better off using Spring MVC&#039;s REST support.  It&#039;s easier, and integrates more naturally with the component model. &lt;/LI&gt;
+	
+
+ &lt;LI&gt; The &lt;EM&gt;Banging My Head Against a Wall&lt;/EM&gt; blog has a great post on &lt;a href = &quot;http://stevewall123.wordpress.com/2012/06/07/upgrading-from-spring-2-5-to-3-1/&quot;&gt;Upgrading from Spring 2.5 to 3.1&lt;/A&gt;.  
+	 This blog shows that the migration is dead simple, if you haven&#039;t already made the jump, and he&#039;s got insight into one particular little &lt;EM&gt;gotcha&lt;/EM&gt; you might hit to make the migration that much smoother. 
+	&lt;/Li&gt;
+&lt;LI&gt;The TeamExtension blog has a quick post introducing how &lt;a href =&quot;http://blog.teamextension.com/quick-spring-mobile-1-tutorial-944&quot;&gt;to get started with Spring Mobile 1.0&lt;/A&gt;. They recommend stock Eclipse with the m2e support, but of course, if you use &lt;a href = &quot;http://www.springsource.com/developer/sts&quot;&gt;the SpringSource Tool Suite&lt;/A&gt;, you won&#039;t have to set anything up.  &lt;/LI&gt;
+&lt;LI&gt;  Are you a .NET developer looking for a solid dependency injection framework like Spring? Have you heard about &lt;a href =&quot;http://springframework.net/&quot;&gt;Spring.NET&lt;/A&gt;, the dependency injection framework from the same people behind SpringSource?  
+	Blogger  Å?ukasz Budnik has an interesting post about &lt;a href=&quot;http://dotnet.dzone.com/articles/springnet-superiority-over-ms&quot;&gt; Spring.NET&#039;s superiority over other alternatives in the space (Microsoft&#039;s Unity and Ninject)&lt;/A&gt;.
+	  &lt;/LI&gt;
+
+&lt;/OL&gt;</description>
+ <comments>http://www.springsource.org/node/3572#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 13 Jun 2012 06:37:28 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3572 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring, June 5th, 2012</title>
+ <link>http://www.springsource.org/node/3570</link>
+ <description> 
+&lt;P&gt; 
+ Welcome back to another installment of &lt;EM&gt;This Week in Spring&lt;/EM&gt;. As usual, we&#039;ve got a lot to look at this week so let&#039;s get to it.. 
+&lt;/P&gt;
+&lt;OL&gt; 	&lt;LI&gt;  The video from Chris Beams&#039;s recent webinar 
+		on the &lt;a href =&quot;http://www.springsource.org/node/3567&quot;&gt;various  styles  of dependency injection that Spring supports&lt;/A&gt; 
+			is up. Chris is a core Spring framework engineer (and all around good guy). This video is definitely worth a
+			watch especially if you still think Spring configurations requires XML. 
+		 
+		  &lt;/LI&gt; 
+	 &lt;LI&gt; Oleg Zhurakousky announced the availability of 
+		 &lt;a href = &quot;http://www.springsource.org/node/3569&quot;&gt;
+		 Spring Integration 2.1.2 RELEASE and 2.2.0M2&lt;/A&gt;. The new releases are filled with many important bug fixes as well as several  
+		
+		 new features.  
+		 &lt;/LI&gt;
+		&lt;LI&gt;  Roy Clarkson has announced the availability of &lt;a href= &quot;http://www.springsource.org/spring-android/news/1.0.0-released&quot;&gt;Spring Android 1.0.0.RELEASE&lt;/A&gt;! The project is an extension of the Spring Framework that aims to simplify the development of native Android applications by providing RESTTemplate support for mobile clients. 
+			 
+			 
+		&lt;/LI&gt;  
+		&lt;LI&gt; The  Birds and Bytes blog has an interesting approach to exposing  &lt;a href = &quot;http://birds-and-bytes.tumblr.com/post/24068122981/sharing-spring-mvc-localization-with-the-client-side&quot;&gt;Spring MVC internationalized messages  to JavaScript code by using Jackson to write them to a JavaScript-consumable dictionary&lt;/A&gt;. This is pretty slick, &lt;EM&gt;and&lt;/EM&gt; simple!
+			
+			   &lt;/LI&gt;
+ 		 &lt;LI&gt; After you&#039;ve watched Chris Beams&#039; amazing webinar, you might check out Steve Schols&#039; blog, which  
+	offers a perspective on 
+			 &lt;a href = &quot;http://steveschols.wordpress.com/2012/06/05/i-was-wrong-constructor-vs-setter-injection/&quot;&gt;which approach to dependency injection (constructor- or setter-based injection) to take&lt;/A&gt;, and relates them to 
+			  relevant support in the Spring framework. The Spring framework, of course, supports both setter- and constructor-based injection, but it&#039;s nonetheless interesting to see one person&#039;s perspective of the tradeoffs in using one or the other.
+			 &lt;/LI&gt;
+	
+  &lt;LI&gt; Carlo Scarioni has put together a great post introducing how 
+	&lt;a href = &quot;http://java.dzone.com/articles/creating-custom-spring-3-xml&quot;&gt;to create custom 
+	Spring 3 XML namespaces&lt;/A&gt;.  The XML namespace mechanism is one that is available for public consumption: you don&#039;t have to be a 
+	SpringSource engineer to wrap your API in an XML namespace and make it available for consumption by other 
+	 engineers. XML namespaces can pack a lot of punch!  It is common to see open source, third party APIs also expose an XML
+	namespace, and it&#039;s  easy enough to do that every team should consider exposing one of their own.
+	   
+  &lt;/LI&gt;
+  &lt;LI&gt; Ken Rimple, co-author of &lt;EM&gt;Spring Roo in Action&lt;/EM&gt;, has put together a wonderful 
+	 blog on how  
+	 &lt;a href  =&quot;http://java.dzone.com/articles/roo-add-development-testing&quot;&gt;to unit-test Spring Roo addons.&lt;/A&gt;
+	  &lt;/LI&gt;
+	&lt;LI&gt; Matt Vickery is at it again, this time with an amazing post on 
+		&lt;a href = &quot;http://java.dzone.com/articles/spring-integration-robust&quot;&gt;
+		how 
+			to use the dynamic duo of Spring Integration&#039;s   &lt;CODE&gt;splitter&lt;/CODE&gt; and &lt;code&gt;aggregator&lt;/code&gt;.
+			&lt;/A&gt;
+    &lt;li&gt; Avner has written a post about 
+    &lt;a href=&quot;http://birds-and-bytes.tumblr.com/post/24068122981/sharing-spring-mvc-localization-with-the-client-side&quot;&gt;sharing Spring MVC localization with the client side&lt;/a&gt;. 
+    &lt;/li&gt;
+            
+		 &lt;/LI&gt;
+ &lt;LI&gt;  The VoltDB blog has a great post on using Spring&#039;s &lt;a Href =&quot;http://voltdb.com/company/blog/using-spring-schedule-annotation&quot;&gt; &lt;CODE&gt;@Scheduled&lt;/CODE&gt; annotation to run 
+	 scheduled tasks&lt;/A&gt;.     &lt;/LI&gt; 
+ &lt;li&gt;  Arjen Poutsma has announced 
+	 the &lt;a href  = &quot;http://forum.springsource.org/showthread.php?126957-Spring-Web-Services-2-1-0-RELEASE-released&quot;&gt;availability of Spring Web Services 2.1.0.RELEASE.&lt;/A&gt; The new release  
+		 includes many updates to third party dependencies, and mainly marks the stabilization point
+		 of the 2.1 line.  
+	    &lt;/LI&gt;
+ 	&lt;LI&gt; The Hyperic blog has an interesting post on the &lt;a href = &quot;http://blog.hyperic.com/hyperic-gives-managing-apache-tomcat-an-upgrade/&quot;&gt;updates to Hyperic as part of the larger, recent vFabric 5.1 line that 
+	   
+	     support Tomcat 7&lt;/A&gt;.
+	  &lt;/LI&gt; 
+	
+	 
+&lt;/OL&gt;</description>
+ <comments>http://www.springsource.org/node/3570#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 06 Jun 2012 05:12:44 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3570 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Integration 2.1.2.RELEASE  and 2.2.0.M2 are released!</title>
+ <link>http://www.springsource.org/node/3569</link>
+ <description>&lt;p&gt;The Spring Integration team is pleased to announce the release of:&lt;/p&gt;
+&lt;p&gt;Spring Integration 2.1.2.RELEASE - a small maintenance release with some important bug fixes &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release notes are available &lt;a target=&quot;_blank&quot; href=&quot;https://jira.springsource.org/secure/ReleaseNote.jspa?projectId=10121&amp;amp;version=12835&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Artifacts are available in &lt;a target=&quot;_blank&quot; href=&quot;http://repo.springsource.org/simple/libs-release-local/org/springframework/integration/&quot;&gt;SpringSource repo&lt;/a&gt;,  &lt;a target=&quot;_blank&quot; href=&quot;http://www.springsource.org/download/community?project=Spring%2520Integration&quot;&gt;community download page&lt;/a&gt; and &lt;a target=&quot;_blank&quot; href=&quot;http://search.maven.org/#search%7Cga%7C1%7Corg.springframework.integration&quot;&gt;Maven Central&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Spring Integration 2.2.0.M2 - Second milestone release of 2.2 stream whose main theme is JPA support  as well as other important features and improvements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release notes are available &lt;a target=&quot;_blank&quot; href=&quot;https://jira.springsource.org/secure/ReleaseNote.jspa?projectId=10121&amp;amp;version=12601&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Artifacts are available in &lt;a target=&quot;_blank&quot; href=&quot;http://repo.springsource.org/simple/libs-milestone-local/org/springframework/integration/&quot;&gt;SpringSource repo&lt;/a&gt; and  &lt;a target=&quot;_blank&quot; href=&quot;http://www.springsource.org/download/community?project=Spring%2520Integration&quot;&gt;community download page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More information is available on project&#039;s &lt;a target=&quot;_blank&quot; href=&quot;http://www.springsource.org/spring-integration&quot;&gt;home page&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3569#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Mon, 04 Jun 2012 20:03:13 +0000</pubDate>
+ <dc:creator>Oleg Zhurakousky</dc:creator>
+ <guid isPermaLink="false">3569 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring for Android 1.0.0 Released</title>
+ <link>http://www.springsource.org/spring-android/news/1.0.0-released</link>
+ <description>&lt;p&gt;Dear Spring Community,&lt;/p&gt;
+
+&lt;p&gt;
+We are pleased to announce the general availability of &lt;a href=&quot;http://www.springsource.org/spring-android&quot;&gt;Spring for Android 1.0&lt;/a&gt;!
+&lt;/p&gt;
+&lt;p&gt;Spring for Android supports usage of the Spring Framework in a Android environment.&lt;/p&gt;
+
+&lt;p&gt;This GA release includes minor fixes and improvements since the RC1 release. See the &lt;a href=&quot;http://static.springsource.org/autorepo/docs/spring-android/1.0.0.RELEASE/changelog.txt&quot;&gt;changelog&lt;/a&gt; and &lt;a href=&quot;http://static.springsource.org/autorepo/docs/spring-android/1.0.0.RELEASE/reference/html/&quot;&gt;reference manual&lt;/a&gt; for more information.
+&lt;/p&gt;
+
+&lt;p&gt;A significant change in this release is that the default RestTemplate constructor no longer includes any message body converters. However, an alternate constructor allows you to include a standard set of message converters, similar to previous releases. See the API Javadoc and Reference Manual for more details on this change.&lt;/p&gt;
+
+&lt;p&gt;To retrieve the software, 
+&lt;a href=&quot;http://www.springsource.org/download/community?project=Spring%20for%20Android&quot;&gt;download&lt;/a&gt; the release distribution, or add the &lt;a href=&quot;http://www.springsource.org/spring-android#maven&quot;&gt;maven artifacts&lt;/a&gt; to your project. Sample apps are available at &lt;a href=&quot;https://github.com/SpringSource/spring-android-samples&quot;&gt;github.com/SpringSource/spring-android-samples&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We want to thank the community for their contributions to this GA release, and we look forward to working with them on future releases.  If you are building a native Android app, we encourage you to try out Spring for Android 1.0 and &lt;a href=&quot;http://forum.springsource.org/forumdisplay.php?f=88&quot;&gt;collaborate&lt;/a&gt; with us on the next iteration of the project.&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/spring-android/news/1.0.0-released#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 30 May 2012 23:35:33 +0000</pubDate>
+ <dc:creator>Roy Clarkson</dc:creator>
+ <guid isPermaLink="false">3568 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Video: Spring Dependency Injection Styles</title>
+ <link>http://www.springsource.org/node/3567</link>
+ <description>&lt;p&gt;
+This video provides a tour of modern dependency injection and Spring container configuration styles, including those available in the Spring 3.1 release. Spring expert and long time committer, &lt;a href=&quot;http://blog.springsource.org/author/cbeams/&quot;&gt;Chris Beams&lt;/a&gt;, shows by example the use of Java @Configuration classes, Annotated POJOs, and XML to wire up your application. The presentation covers not just how to configure the container to use these options, but will also discuss why you would choose one method over another, as well as how they can be mixed and matched.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;object width=&quot;560&quot; height=&quot;349&quot;&gt;
+&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/embed/dJh84cjMY3E?version=3&amp;amp;hl=en_US&quot; /&gt;
+&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
+&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://www.youtube.com/v/dJh84cjMY3E?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;560&quot; height=&quot;349&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Be sure to thumbs up the presentation if you find it useful and &lt;a href=&quot;http://www.youtube.com/subscription_center?adduser=SpringSourceDev&quot;&gt;subscribe to the SpringSourceDev channel&lt;/a&gt; to see other recordings and screencasts.&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3567#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 30 May 2012 18:04:04 +0000</pubDate>
+ <dc:creator>Adam Fitzgerald</dc:creator>
+ <guid isPermaLink="false">3567 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring: May 29th 2012</title>
+ <link>http://www.springsource.org/node/3566</link>
+ <description>&lt;P&gt; Welcome back to another installment of &lt;EM&gt;This Week in Spring&lt;/EM&gt;! As usual, we have a lot to cover, so let&#039;s get straight to it!
+&lt;OL&gt; 
+	&lt;LI&gt;
+		 Chris Beams has announced that the first milestone release towards &lt;a href = &quot;http://www.springsource.org/node/3563&quot;&gt;Spring 3.2 	 
+		 is now available&lt;/A&gt;!  This release is great! 
+		
+		It includes 
+
+		initial support for asynchronous &lt;CODE&gt; @Controller&lt;/CODE&gt; methods,
+		early support for JCache-based cache providers,
+		significant performance improvements in autowiring of non-singleton beans,
+		initial delay support for &lt;CODE&gt; @Scheduled&lt;/CODE&gt; and &lt;CODE&gt; &amp;lt;task:scheduled&amp;gt;&lt;/CODE&gt;,
+		ability to choose between multiple executuors with &lt;CODE&gt;@Async&lt;/CODE&gt;,
+		enhanced bean profile selection using the not (&lt;CODE&gt;!&lt;/CODE&gt;) operator,  
+		48 bugs fixed, 8 new features and 36 improvements implemented. 
+		
+  Check out the latest and greatest bits now, and feel free to give feedback!  
+
+ 
+When I asked &lt;A href = &quot;https://twitter.com/starbuxman/status/207449648003162114&quot;&gt;for any items for consideration into this roundup&lt;/A&gt; on my Twitter account, one user immediately shot back: &quot;&lt;a href =&quot;https://twitter.com/nealeu/status/207455613771464704&quot;&gt;With the Spring 3.2 news, how about a poll on whether the community wants 3.2 M1 to be followed by RC1. It&#039;s too good to wait&lt;/A&gt;.&quot; I agree,  this release  &lt;EM&gt;is&lt;/EM&gt; pretty epic!
+
+
+		  &lt;/LI&gt;
+ &lt;LI&gt;Michael Isvy has put together a fantastic &lt;a href = &quot;http://blog.springsource.org/2012/05/23/understanding-proxy-usage-in-spring/&quot;&gt;introduction to the low level proxy machinery at the heart of much of Spring&lt;/A&gt;, including transaction management and caching. Once you understand how it works, it&#039;s easy to employ it surgically.    &lt;/LI&gt;
+ &lt;LI&gt; Martin Lippert has announced that 
+	 &lt;A href = &quot;http://www.springsource.org/node/3562&quot;&gt;SpringSource Tool Suite 2.9.2 has been released&lt;/A&gt;.   
+	The release includes updated compatibility with tcServer 2.7 and some bug fixes.&lt;/LI&gt;
+ 
+
+&lt;LI&gt; Alan Stewart has announced the &lt;a href = &quot;http://blog.springsource.org/2012/05/28/spring-roo-1-2-2-release-available/&quot;&gt;1.2.2 release of Spring Roo&lt;/A&gt;. 
+	
+	
+	 This is the second maintenance release for 1.2 and includes fixes for a number of issues and includes support for Spring Framework 3.1.1 and JDK 7.  Roo 1.2.2 also includes the excellent new &quot;tailor&quot; feature provided by our partner, Accenture. The H-Online website had &lt;a href = &quot;http://www.h-online.com/open/news/item/Spring-Roo-1-2-update-arrives-1585213.html&quot;&gt;coverage of the release&lt;/A&gt;.  &lt;/LI&gt;  
+	
+	&lt;LI&gt; The Cake Solutions blog has put together  (another!) 
+	 great blog introducing 
+	&lt;a href =&quot;http://www.cakesolutions.net/teamblogs/2012/05/23/enabling-neo4j-web-admin-tool-on-the-embedded-server-using-spring-data&quot;&gt;
+	how to run Neo4j embedded with the web administration tool, and Spring Data&lt;/A&gt;. 
+	/ &lt;/LI&gt;
+
+&lt;LI&gt; The Zenika blog is at it again, this time with not one, but two great entries into this week&#039;s roundup. The first entry  provides an &lt;a href = &quot;http://blog.zenika.com/index.php?post/2012/04/27/Overview-of-Spring-Data-MongoDB&quot;&gt;overview of Spring Data MongoDB&lt;/A&gt; and the second entry provides an overview of how to &lt;a href = &quot;http://blog.zenika.com/index.php?post/2012/05/23/Spring-Batch-and-MongoDB-cursor-based-item-reader&quot;&gt;use Spring Batch and MongoDB together&lt;/A&gt;. Great stuff, and I&#039;ll certainly be checking back for new content!
+	&lt;/LI&gt;
+ 
+  &lt;LI&gt;  The JavaRevisted blog has a nice post &lt;a href = &quot;http://javarevisited.blogspot.com/2012/05/what-is-bean-scope-in-spring-mvc.html&quot;&gt;on how to specify a bean&#039;s scope in Spring&lt;/A&gt;.  A few points of clarification: Spring 3.0 &lt;EM&gt;does&lt;/EM&gt;  provide new scopes (including one of my favorites, the  &lt;a href = &quot;http://static.springsource.org/spring/docs/3.0.x/javadoc-api/org/springframework/context/support/SimpleThreadScope.html&quot;&gt;&lt;CODE&gt;SimpleThreadScope&lt;/code&gt;)&lt;/A&gt;, and - while this blog introduces the default scopes available - you can easily register new scopes using the  &lt;a href = &quot;http://static.springsource.org/spring/docs/3.0.x/javadoc-api/org/springframework/beans/factory/config/CustomScopeConfigurer.html&quot;&gt;&lt;CODE&gt;CustomScopeConfigurer&lt;/CODE&gt;&lt;/A&gt;, and filling out the map of custom scope instances, like this:
+	
+&lt;pre&gt;	@Bean 
+	public static CustomScopeConfigurer csc(){ 
+	  
+	  Map&amp;lt;String,Object&amp;gt; scopes = new HashMap&amp;lt;String,Object&amp;gt;();
+	  scopes.put(&quot;thread&quot;, new SimpleThreadScope());
+	  	
+	  CustomScopeConfigurer csc = new CustomScopeConfigurer();
+	  csc.setScopes(scopes);
+	  return csc;	
+	}
+&lt;/pre&gt;
+	 
+ &lt;LI&gt; 
+	 Blogger Angelo Zerr has put together an  introduction to how to use   &lt;a href = &quot;http://angelozerr.wordpress.com/2012/05/29/eclipse_spring_step11/&quot;&gt;Spring Virgo (formerly Spring DM) and Spring Data JPA and Spring Remoting to build an Eclipse RCP application&lt;/A&gt;. There are many blogs - and they seem to have have links near the top to the previous one preceding it, so simply work backwards to get all of them. 
+
+  There are versions of the articles in both French and English. 
+ 
+
+ &lt;/LI&gt;
+	  &lt;/LI&gt;
+&lt;LI&gt; Navin Bansal has put together a blog introducing the bean &lt;a href  = &quot;http://www.technicaltoday.com/2012/05/spring-framework-introducing-bean-and.html&quot;&gt;lifecycle for beans managed by the Spring container&lt;/A&gt;. 
+	&lt;/LI&gt;
+
+ 
+
+&lt;/OL&gt;</description>
+ <comments>http://www.springsource.org/node/3566#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Tue, 29 May 2012 23:51:46 +0000</pubDate>
+ <dc:creator>Adam Fitzgerald</dc:creator>
+ <guid isPermaLink="false">3566 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Framework 3.2 M1 Released</title>
+ <link>http://www.springsource.org/node/3563</link>
+ <description>&lt;p&gt;The first milestone release toward Spring 3.2 is now available from the SpringSource repository at &lt;a href=&quot;http://repo.springsource.org&quot;&gt;http://repo.springsource.org&lt;/a&gt;.  See &lt;a href=&quot;https://github.com/SpringSource/spring-framework/wiki/Downloading-Spring-artifacts#wiki-resolving-spring-artifacts&quot;&gt;here&lt;/a&gt; for a quick tutorial on resolving these artifacts via Maven.&lt;/p&gt;
+&lt;p&gt;This release includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;initial support for &lt;a href=&quot;http://blog.springsource.org/2012/05/10/spring-mvc-3-2-preview-making-a-controller-method-asynchronous/&quot;&gt;asynchronous @Controller methods&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;early &lt;a href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/api/org/springframework/cache/jcache/package-summary.html&quot;&gt;support for JCache-based cache providers&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;significant &lt;a href=&quot;https://github.com/springsource/spring-framework/commit/4c7a1c0a5403b35dd812dae1f2a753538928bb32&quot;&gt;performance improvements&lt;/a&gt; in autowiring of non-singleton beans
+&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://jira.springsource.org/browse/SPR-7022&quot;&gt;initial delay&lt;/a&gt; support for &lt;a href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/api/org/springframework/scheduling/annotation/Scheduled.html#initialDelay()&quot;&gt;@Scheduled&lt;/a&gt; and &lt;a href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/reference/html/scheduling.html#scheduling-task-namespace-scheduled-tasks&quot;&gt;&amp;lt;task:scheduled&amp;gt;&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;ability to &lt;a href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/reference/htmlsingle/#scheduling-annotation-support-qualification&quot;&gt;choose between multiple executuors with @Async&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;enhanced &lt;a href=&quot;https://github.com/SpringSource/spring-framework/commit/bcd44f3798ed06c0704d2a3564b8a9735e747e87&quot;&gt;bean profile selection using the not (!) operator&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://bit.ly/KXCkGX&quot;&gt;48 bugs&lt;/a&gt; fixed, &lt;a href=&quot;http://bit.ly/KXCyhh&quot;&gt;8 new features&lt;/a&gt; and &lt;a href=&quot;http://bit.ly/KXCA8M&quot;&gt;36 improvements&lt;/a&gt; implemented
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;This is also the first release since our &lt;a href=&quot;https://github.com/springsource/spring-framework&quot;&gt;move to GitHub&lt;/a&gt; and using our &lt;a href=&quot;https://github.com/springsource/spring-framework#building-from-source&quot;&gt;new Gradle build&lt;/a&gt;.  A special thanks to the authors of the many &lt;a href=&quot;https://github.com/SpringSource/spring-framework/pulls&quot;&gt;pull requests&lt;/a&gt; submitted and merged during 3.2 M1!  &lt;a href=&quot;https://github.com/SpringSource/spring-framework/wiki/Contributor-guidelines&quot;&gt;Keep them coming&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.springsource.com/download/community?project=Spring%20Framework&amp;amp;version=3.2.0.M1&quot;&gt;Download&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/reference&quot;&gt;Documentation&lt;/a&gt; | &lt;a target=&quot;_blank&quot; href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/api/&quot;&gt;Javadoc API&lt;/a&gt; | &lt;a target=&quot;_blank&quot; href=&quot;http://static.springsource.org/spring-framework/docs/3.2.0.M1/changelog.txt&quot;&gt;Change Log&lt;/a&gt; | &lt;a href=&quot;http://jira.springframework.org/browse/SPR&quot;&gt;JIRA&lt;/a&gt; | &lt;a href=&quot;http://forum.springsource.org/forumdisplay.php?f=21&quot;&gt;Forum&lt;/a&gt; | &lt;a href=&quot;http://stackoverflow.com/questions/tagged/spring&quot;&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3563#comments</comments>
+ <pubDate>Tue, 29 May 2012 07:08:16 +0000</pubDate>
+ <dc:creator>Chris Beams</dc:creator>
+ <guid isPermaLink="false">3563 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>SpringSource Tool Suite 2.9.2 released</title>
+ <link>http://www.springsource.org/node/3562</link>
+ <description>&lt;p&gt;Dear Spring Community,&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+We&#039;re pleased to announce the update release 2.9.2 of the SpringSource Tool Suite (STS).&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+This update release got updated to support and ship the just released vFabric tc Server 2.7 and includes a few bug fixes. More details on new features and bug fixes can be found in the&amp;nbsp;&lt;a href=&quot;http://dist.springsource.com/release/STS/doc/STS-new_and_noteworthy.pdf&quot;&gt;New and Noteworthy&lt;/a&gt;&amp;nbsp;document. Detailed&amp;nbsp;&lt;a href=&quot;http://download.springsource.com/release/STS/doc/STS-installation_instructions.pdf&quot;&gt;installation instructions&lt;/a&gt;&amp;nbsp;are also available. As always downloads are available from the&amp;nbsp;&lt;a href=&quot;http://www.springsource.com/landing/best-development-tool-enterprise-java&quot;&gt;STS download page&lt;/a&gt;.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Enjoy!&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3562#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Thu, 24 May 2012 10:11:01 +0000</pubDate>
+ <dc:creator>Martin Lippert</dc:creator>
+ <guid isPermaLink="false">3562 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring - May 22nd, 2012 </title>
+ <link>http://www.springsource.org/node/3558</link>
+ <description> 
+	&lt;P&gt;
+		 Welcome back to another installment of &lt;EM&gt;This Week in Spring&lt;/EM&gt;. We have a lot of great content this week, as usual! 
+	&lt;/P&gt; 
+	
+	&lt;OL&gt; &lt;LI&gt; &lt;A href = &quot;http://blog.springsource.org/author/rstoyanchev/&quot;&gt;Rossen Stoyanchev&lt;/A&gt; has put up another blog in his series on Spring MVC 3.2 Preview. This latest installment introduces &lt;a href = &quot;http://blog.springsource.org/2012/05/16/spring-mvc-3-2-preview-chat-sample/&quot;&gt;a Spring MVC chat example&lt;/A&gt;.  
+	
+	 &lt;/LI&gt;   &lt;LI&gt; 
+		 &lt;A href = &quot;http://blog.springsource.org/author/ogierke/&quot;&gt;Oliver Gierke&lt;/a&gt; has announced the  &lt;a href=&quot;http://www.springsource.org/node/3552&quot;&gt;1.1.0 GA version of Spring Data JPA&lt;/A&gt;.
+		 
+		Spring Data JPA makes it very simple to build JPA-based repositories, saving you from the tedious boiler plate code.  This new release includes  new keywords for query generation (&lt;CODE&gt;LessThanEqual&lt;/CODE&gt;, &lt;CODE&gt;GreaterThanEqual&lt;/CODE&gt;, &lt;CODE&gt;Before&lt;/CODE&gt;, &lt;CODE&gt;After&lt;/CODE&gt;, &lt;CODE&gt;StartsWith&lt;/CODE&gt;, &lt;CODE&gt;EndsWith&lt;/CODE&gt;, and &lt;CODE&gt;Contains&lt;/CODE&gt;), a handy &lt;CODE&gt;PersistenceUnitPostProcessor&lt;/CODE&gt; to scan for JPA entities (to be used in Spring versions before 3.1), support for native queries in &lt;CODE&gt;@Query&lt;/CODE&gt;, and support for declarative locking.
+	
+		&lt;/LI&gt; 
+		&lt;LI&gt; &lt;a href = &quot;http://blog.springsource.org/author/jBrisbin/&quot;&gt;Jonathan Brisbin&lt;/A&gt;  announced the  
+			 &lt;a href=&quot;http://www.springsource.org/node/3553&quot;&gt;
+			 1.0.0.M2 release of Spring Data REST&lt;/A&gt;. Spring Data REST 
+			 let&#039;s you easily export your Spring repository objects as RESTful endpoints. 
+			
+			
+			
+			
+			 The new release includes support
+			 for invoking query methods of &lt;CODE&gt;Repository&lt;/CODE&gt; interfaces,
+			 support for JSR 303 and Spring Validator validations, and improved support for Spring &lt;CODE&gt;ApplicationEvent&lt;/CODE&gt;s that are emitted before and after each save or delete, and annotation-based configuration.
+			
+			 
+			
+			&lt;/LI&gt;
+	  &lt;LI&gt;  &lt;A href=&quot;http://blog.springsource.org/author/ozhurakousky/&quot;&gt;Oleg Zhurakousky&lt;/A&gt; has announced the &lt;a href =&quot;http://www.springsource.org/node/3555&quot;&gt;first milestone release of Spring Integration 2.2&lt;/A&gt;. 
+		 This release  includes dependency upgrades, JPA support, and support for &quot;publisher confirms and returns,&quot; which are newly supported in Spring AMQP.
+		&lt;/LI&gt;  
+		&lt;LI&gt; &lt;a href =&quot;http://blog.springsource.org/author/grussell/&quot;&gt;Gary Russell&lt;/A&gt; has announced version &lt;a href =&quot;http://www.springsource.org/node/3554&quot;&gt;1.1.0 of Spring AMQP&lt;/A&gt; that includes support for the RabbitMQ 2.8.x client, which in turn supports mirrored queues, broker failover, publisher confirms, returns, federated exchanges, and much more.
+
+  &lt;/LI&gt; &lt;LI&gt;  Matt Vickery has a great post introducing &lt;a href =&quot;http://java.dzone.com/articles/spring-integration-splitter&quot;&gt;the Spring Integration splitter-aggregator pattern&lt;/A&gt;.&lt;/LI&gt;
+		&lt;LI&gt; Willie Wheeler has a great post up on his &lt;a href= &quot;http://architects.dzone.com/articles/why-im-excited-about-using&quot;&gt;custom configuration management database (a CMDB)&lt;/A&gt;. The post details the project, and then talks about his use of Spring Data&#039;s repositories in rebuilding the backend for CMDB. 
+	 Nice post, Willie!		 &lt;/LI&gt;
+		&lt;LI&gt;
+		 Doug Haber put &lt;EM&gt;together&lt;/EM&gt; a wonderful post on 
+		&lt;a href  = &quot;http://blog.fawnanddoug.com/2012/05/pagination-with-spring-mvc-spring-data.html&quot;&gt;
+		handling paging using Spring Data and the REST support in Spring 3.1&lt;/A&gt;.	     &lt;/LI&gt;
+		&lt;LI&gt; Blogger &lt;EM&gt;panbhatt&lt;/EM&gt; has a detailed post on using  
+			&lt;A href = &quot;http://panbhatt.blogspot.in/2012/05/spring-mvc-rest-jsonxml-configuration.html&quot;&gt;			Spring MVC&#039;s REST support&lt;/A&gt; to solve a particular set of problems he was having.
+		
+			 &lt;/LI&gt; &lt;LI&gt; 
+		 Blogger &lt;EM&gt;OBSERWATORZY&lt;/EM&gt;		described his particular thought process &lt;a href = &quot;http://lkonopski.blogspot.com/2012/05/using-spring-resttemplate-with.html&quot;&gt;when trying to consume a RESTful service&lt;/A&gt;, and wondering if Spring provided an answer (of course it did!). Read on for his resolution.
+				&lt;/LI&gt;
+		&lt;LI&gt;  Vishal Biyani  has put together a nice introduction to &lt;a href = &quot;http://cloudspring.com/get-in-the-cloud-with-cloudfoundry/&quot;&gt;getting started with Spring Roo and Cloud Foundry&lt;/a&gt;.   &lt;/LI&gt;
+ 
+		&lt;LI&gt;   The RabbitMQ blog has an amazing article &lt;A href = &quot;http://www.rabbitmq.com/blog/2012/05/11/some-queuing-theory-throughput-latency-and-bandwidth/&quot;&gt; introducing queueing theory (with an introduction to throughput, latency and bandwidth.&lt;/A&gt;  &lt;/LI&gt; 
+		
+		&lt;LI&gt;  JAXEnter has &lt;A href= &quot;http://jaxenter.com/spring-data-jpa-and-amqp-reach-1-1-0-releases-42752.html&quot;&gt;a nice roundup of some of the news&lt;/A&gt; releases described in this very post, including the Spring AMQP and Spring Data JPA&#039;s GAs.&lt;/LI&gt;
+	&lt;/OL&gt;</description>
+ <comments>http://www.springsource.org/node/3558#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Tue, 22 May 2012 11:15:18 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3558 at http://www.springsource.org</guid>
+</item>
+</channel>
+</rss>

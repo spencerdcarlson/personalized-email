@@ -1,0 +1,17 @@
+INDEX VERSION 1.126
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4232049904.index
+/mvc-1-start/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1846527517.index
+/jmx-1-solution/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2015495087.index
+/security-1-start/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2891998649.index
+/mvc-1-solution/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1410653115.index
+/jmx-1-start/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2131570049.index
+/security-1-solution/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2433601748.index
+/security-1-start/src/test/java
+/Library/WebServer/Documents/springSource/DEMOS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4084930323.index
+/security-1-solution/src/test/java
